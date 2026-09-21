@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# EKMS specific
+*.enc
+master_keys_v2.enc
+master_keys.enc
+
+# Tests
+test_file.txt
